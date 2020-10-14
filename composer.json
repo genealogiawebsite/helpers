@@ -1,18 +1,18 @@
 {
-    "name": "laravel-enso/helpers",
+    "name": "genealogiawebsite/helpers",
     "description": "Helper classes dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "helpers"
     ],
-    "homepage": "https://github.com/laravel-enso/helpers",
+    "homepage": "https://github.com/genealogiawebsite/helpers",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://genealogiawebsite.com",
             "role": "Developer"
         }
     ],
